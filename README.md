@@ -14,7 +14,7 @@
 #  😊 Me 😊
 <br>
 <br>
-<a href="https://velog.io/@haseung22"><img src ="https://img.shields.io/badge/Velog-6DB33F?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@haseung22"><img src ="https://img.shields.io/badge/Velog-6DB33F?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="mailto:dlgktmd0naver.com"><img src ="https://img.shields.io/badge/Naver-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br>
 <br>
 <br>
