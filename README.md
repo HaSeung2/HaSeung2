@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&fontColor=#ffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&fontColor=#ffff)
 
 
 
@@ -8,13 +8,27 @@
 
 
 
-<img src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src ="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>  <img src ="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src ="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src ="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src ="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>  
+<img src ="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white">
+<br>
+<div style="display: flex; align-items: flex-start;">
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+</div>
 <br>
 <br>
-#  😊 Me 😊
+#  😊 Contact 😊
 <br>
 <br>
-<a href="https://velog.io/@haseung22"><img src ="https://img.shields.io/badge/Velog-6DB33F?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="mailto:dlgktmd0naver.com"><img src ="https://img.shields.io/badge/Naver-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://haseung22.tistory.com/"><img src ="https://img.shields.io/badge/Tistory-FF0000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+<a href="mailto:dlgktmd0naver.com"><img src ="https://img.shields.io/badge/Naver-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br>
 <br>
 <br>
